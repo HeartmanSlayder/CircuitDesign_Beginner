@@ -1,0 +1,8 @@
+module compare_1bit(a, b, g, a_greater_b, a_equal_b);
+	input 	a, b, g;
+	output 	a_greater_b, a_equal_b;
+	
+	assign	a_greater_b = 
+	assign
+	
+endmodule 
